@@ -1,5 +1,9 @@
-env
 *.sqlite3
 __pycache__
 .idea
 .idea/
+.env
+.venv
+env/
+venv/
+ENV/
